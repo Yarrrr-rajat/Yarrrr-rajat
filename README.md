@@ -9,6 +9,5 @@
 ***B.Tech In CSE:*** *LJ University, Ahmedabad* &nbsp;&nbsp;&nbsp;&nbsp; *(2022-Now)*<br>
 ***Diploma In CE:*** *Tapi Diploma Eng. College, Surat* &nbsp;&nbsp;&nbsp;&nbsp;*(2019-2022)*
 
-## ***Phone:*** *+91 9978817201*<br>
-## ***email:*** 
-[rajatpatel1416@gmail.com](mailto:rajatpatel1416@gmail.com)<br>
+***Phone:*** *+91 9978817201*<br>
+***email:*** *[rajatpatel1416@gmail.com](mailto:rajatpatel1416@gmail.com)*<br>

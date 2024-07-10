@@ -7,3 +7,8 @@
 ***Web Developer with high vision, forward-thinking, and problem-solving skills with an intention to work hard to meet project deadlines.***
 
 ---
+
+***Education :***
+
+---
+

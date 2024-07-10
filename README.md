@@ -14,3 +14,5 @@
 
 ## ***Skills :***
 <img src="https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/3a912d7f-e6c4-4a8a-984d-71e84b37bcca" alt="Description" width="50" height="50" />
+
+<img src="https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/66180f0e-baf4-4359-8d12-94b1bd6e3714" alt="Description" width="50" height="50" />

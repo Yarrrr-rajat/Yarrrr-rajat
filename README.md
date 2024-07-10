@@ -8,7 +8,7 @@
 
 ---
 
-***Education :***
+# ***Education :***
 
 ---
 

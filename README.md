@@ -8,5 +8,5 @@
 
 ## ***Education :***
 
-***B.Tech In CSE: LJ University, Ahmedabad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2022-Now)***
+***B.Tech In CSE: LJ University, Ahmedabad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2022-Now)***<br>
 ***Diploma In CE: Tapi Diploma Eng. College, Surat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2019-2022)***

@@ -1,7 +1,7 @@
-# Personal Detail Card
-
-**Name:** PATEL RAJAT  <br>
-**Profession:** FRONTEND DEVELOPER  <br>
-**Email:** [rajatpatel1416@gmail.com](mailto:rajatpatel1416@gmail.com)   <br>
-**Phone:** +91 99788-17201  <br>
-**GitHub:** [@RAJATPATEL438](https://github.com/RAJATPATEL438)   <br>
+<div style="font-family: Arial, sans-serif; font-size: 20px; color: #333;">
+    <p><strong>Name:</strong> John Doe</p>
+    <p><strong>Profession:</strong> Software Developer</p>
+    <p><strong>Email:</strong> <a href="mailto:john.doe@example.com" style="color: #1e90ff;">john.doe@example.com</a></p>
+    <p><strong>Phone:</strong> +123 456 7890</p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/johndoe" style="color: #1e90ff;">@johndoe</a></p>
+</div>

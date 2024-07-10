@@ -13,3 +13,4 @@
 ***Diploma In CE:*** *Tapi Diploma Eng. College, Surat* &nbsp;&nbsp;&nbsp;&nbsp;*(2019-2022)*
 
 ## ***Skills :***
+<img src="https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/2864164c-3e00-4465-93b1-7e864a27751c" alt="Description" width="50" height="50" />

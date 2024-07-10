@@ -1,4 +1,4 @@
-## ***Hello I'm Rajat Patel!***  
+## ***<img src="https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/c0113118-413b-4d09-a0ca-65d11fd852ac" alt="Description" width="200" height="200" style="border-radius: 50%;" />Hello I'm Rajat Patel!***  
 
 ***I work as a freelance web designer specialized in the conception of custom and unique websites. I love designing interfaces with a beautiful and strong user experience.***  
 
@@ -12,4 +12,4 @@
 ***Phone:*** *+91 9978817201*<br>
 ***email:*** *[rajatpatel1416@gmail.com](mailto:rajatpatel1416@gmail.com)*<br>
 
-![unnamed](https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/c0113118-413b-4d09-a0ca-65d11fd852ac)
+

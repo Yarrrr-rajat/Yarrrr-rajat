@@ -23,6 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/20eb0220-7508-4fb8-a73f-0f19be20187f" alt="Description" width="50" height="50" />
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/71857b15-7587-4768-b525-f1e8ee0b9c7c" alt="Description" width="80" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/4e37c00f-fce5-45ef-99a4-4d174eccf571" alt="Description" width="80" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/16b412d5-4f5a-4d4e-ba33-8936ea05b1c3" alt="Description" width="100" />

@@ -32,3 +32,4 @@
 ## ***Social :***
 
 ***Facebook :*** *[Rajat.patel.1804109](https://www.facebook.com/rajat.patel.1804109/)*<br>
+***Twitter :*** *[patelRajat1416](https://x.com/patelRajat1416)*<br>

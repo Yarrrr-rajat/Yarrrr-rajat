@@ -34,3 +34,4 @@
 ***Facebook :*** *[Rajat.patel.1804109](https://www.facebook.com/rajat.patel.1804109/)*<br>
 ***Twitter :*** *[patelRajat1416](https://x.com/patelRajat1416)*<br>
 ***Linkedin :*** *[patel-rajat-3412641a3](https://www.linkedin.com/in/patel-rajat-3412641a3/)*<br>
+***Instagram :*** *[yarrrr.rajattt](https://www.instagram.com/yarrrr.rajattt/)*<br>

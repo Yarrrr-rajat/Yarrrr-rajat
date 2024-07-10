@@ -8,5 +8,5 @@
 
 ## ***Education :***
 
-##***B.Tech In CSE:*** 
+***B.Tech In CSE:*** 
 ***LJ University, Ahmedabad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2022-Now)***

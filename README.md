@@ -28,5 +28,7 @@
 <img src="https://github.com/Yarrrr-rajat/Yarrrr-rajat/assets/175085707/45dff95b-be7a-44fe-87c0-8eb6ae41eab1" alt="Description" width="120" />
 
 
-<rect xmlns="http://www.w3.org/2000/svg" x="16" y="344" width="468" height="328" fill="#00684A"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="700">
+  <rect x="16" y="344" width="468" height="328" fill="#00684A"/>
+</svg>
 

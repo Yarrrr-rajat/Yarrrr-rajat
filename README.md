@@ -1,7 +1,9 @@
+<style>
 @font-face {
   font-family: 'MyCustomFont';
   src: url('[path/to/your/font.ttf](https://github.com/Yarrrr-rajat/FONTS/blob/main/FoundersGrotesk-Semibold.ttf)') format('truetype');
 }
+</style>
 <div style="font-family: MyCustomFont, sans-serif; font-size: 20px; color: #333;">
     <p><strong>Name:</strong> John Doe</p>
     <p><strong>Profession:</strong> Software Developer</p>

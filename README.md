@@ -1,6 +1,4 @@
-***Hello I'm Rajat Patel!***  
-
----
+## ***Hello I'm Rajat Patel!***  
 
 ***I work as a freelance web designer specialized in the conception of custom and unique websites. I love designing interfaces with a beautiful and strong user experience.***  
 

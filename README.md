@@ -1,7 +1,7 @@
 # Personal Detail Card
 
-**Name:** Your Name  
-**Profession:** Your Profession  
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
+**Name:** PATEL RAJAT  
+**Profession:** FRONTEND DEVELOPER 
+**Email:** [your.email@example.com](mailto:rajatpatel1416@gmail.com)  
 **Phone:** +123 456 7890  
-**GitHub:** [@yourusername](https://github.com/yourusername)  
+**GitHub:** [@RAJATPATEL438](https://github.com/RAJATPATEL438)  
